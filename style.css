@@ -1,0 +1,76 @@
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+/* all subject name color and f change here  */
+.same{
+  font-size: 16px;
+  font-weight: normal;
+  font-family: arial black;
+}
+.incng{
+  border: 1px solid gray; 
+  background-color: #d3d0d06b;
+}
+H1
+{
+  font-family: 'Anton', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.c1
+{
+  font-family: 'Anton', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+.c2
+{
+  margin-bottom: 40px;
+  font-family: 'Anton', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+.c3
+{
+  /* border: 2px solid rgb(111, 0, 255); */
+  box-shadow:3px 2px;
+  padding: 10px;
+  border-radius: 50px 20px;
+  background-color: #d1deeb;
+  font-family: 'Anton', sans-serif;
+  font-family: 'Oswald', sans-serif;  
+  font-size: 28px;
+
+}
+.right
+{
+  margin-top: 0px;
+  font-size: 20px;
+}
+.left
+{
+  margin-left: 20px;
+  font-size: 18px;
+}
+.btn {
+  color: #000000;
+  background: #5e59595d;
+  font-weight: 18px;
+  font-family: arial;
+  }
+
+  .fsc{
+    background-color: #d1deeb;
+  }
+#demo
+{
+  text-align: center;
+  font-weight: bold;
+}
